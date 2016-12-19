@@ -2,7 +2,7 @@ package main
 
 import (
     "flag"
-    "mychat/lib"
+    "gochat/lib"
     "os"
 )
 
